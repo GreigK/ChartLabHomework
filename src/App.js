@@ -4,7 +4,9 @@ import MusicContainer from './containers/MusicContainer';
 function App() {
   return (
     <div className="App">
-      <h1>Music</h1>
+      <div className="title">
+      <h1>Top 20 Charts</h1>
+      </div>
       <MusicContainer/>
     </div>
   );

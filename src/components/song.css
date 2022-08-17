@@ -1,0 +1,9 @@
+li {
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 2);
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 40rem;
+    /* background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); */
+}
